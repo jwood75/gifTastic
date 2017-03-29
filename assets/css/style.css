@@ -1,9 +1,10 @@
 body{
+	background-color: #1f0101;
 	text-align: center;
 	background-image: url("../images/background.jpg");
 	background-size: 110%;
-	background-attachment: fixed;
-	background-position: -70px;
+	background-position: fixed;
+	min-width: 1025px;
 	background-repeat: no-repeat;
 	font-family: 'Josefin Sans', sans-serif;
 	color: #fff;
