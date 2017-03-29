@@ -1,0 +1,55 @@
+body{
+	text-align: center;
+	background-image: url("../images/redCurtain.jpg");
+	background-size: 110%;
+	background-attachment: fixed;
+	background-position: -70px;
+	background-repeat: no-repeat;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #fff;
+
+}
+
+#titleImage{
+	height: 250px;
+}
+
+button {
+    border-radius: 15px;
+    background: #c3922e;
+    border: 2px solid #c3922e;
+    padding: 3px;
+    opacity: .75;
+    outline: none;  
+}
+
+#add-button {
+    border-radius: 15px;
+    background: #c3922e;
+    border: 2px solid #c3922e;
+    padding: 3px;
+    opacity: .75;
+    outline: none;  
+}
+
+#userInput{
+	width: 200px;
+	color: #000;
+}
+
+.gifStyle{
+	margin: 20px;
+}
+
+.gifButton{
+	margin: 10px;
+}
+
+#gifForm{
+	margin: 10px;
+}
+
+#addText{
+	color: #fff;
+	margin-right: 10px;
+}
